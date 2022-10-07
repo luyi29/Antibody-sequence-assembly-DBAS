@@ -7,8 +7,8 @@ The runtime is as follows:
   
   Run the main program file DeBruijnContigSequencer.java.
   
-  Enter the following parameters in the console. For each parameter entered, you need to press the Enter key
-    /3
+  Enter the following parameters in the console. For each parameter entered, you need to press the Enter key.
+    3
     the file path of the data file Human_denovo_LH.csv.  
     6  
     lh
